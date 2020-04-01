@@ -8,6 +8,7 @@
 </head>
 <body>
 	<h1>git 연습</h1>
-	<p>커밋커커밋</p>
+	<h4>나는 4로 쓸거야</h4>
+	<span>커밋커커밋</span>
 </body>
 </html>
